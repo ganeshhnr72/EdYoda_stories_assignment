@@ -109,6 +109,7 @@ header {
   padding: 0.5em 2em;
   box-shadow: none;
 }
+
 /* -----------------------------------------------------header ends here----------------------------------------------------- */
 .trending_post {
   padding-top: 100px;
@@ -171,6 +172,10 @@ header {
   font-size: 14px;
   /* font-weight: 600; */
   margin-left: 8px;
+}
+.trending_button_css .active_blue_button {
+  color: #f2f6ff;
+  background-color: #0084ff;
 }
 
 /* --------------------- items category --------------------- */
