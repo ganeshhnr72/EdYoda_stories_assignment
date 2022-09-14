@@ -237,6 +237,7 @@ header {
   display: flex;
   background-color: #172146;
   padding: 80px 16%;
+  z-index: -1;
 }
 .section1 h1 {
   font-family: Raleway, sans-serif;
